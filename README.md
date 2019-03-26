@@ -136,4 +136,5 @@ The [final file](oxford/oxford-large-map.svg) should be exported as a
 [PDF with fonts rendered to paths](oxford/oxford-large-map.pdf), so that you don't have problems with printing
 from a system which does not have the fonts you used.
 
-
+It might also be not bad to run scour once again on the finished map, bit I found that it doesn't really compress
+anything significant.
